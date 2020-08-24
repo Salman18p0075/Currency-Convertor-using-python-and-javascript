@@ -1,0 +1,7 @@
+body{
+    background: grey;
+}
+form{
+    display: inline-block;
+    position: relative;
+}
